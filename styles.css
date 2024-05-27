@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;    
+    padding: 20px 0; 
+    margin-top: 123px;
+}
+
+header h1, footer p {
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+#resultado {
+    margin-top: 40px
+}
+
